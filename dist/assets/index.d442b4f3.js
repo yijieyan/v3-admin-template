@@ -1,0 +1,1 @@
+import{_ as t}from"./index.a00d7f4e.js";import{q as s,D as _,Y as o,Z as a,A as c}from"./element-plus.acd4bc56.js";const n={},d=e=>(o("data-v-00b761a6"),e=e(),a(),e),r={class:"testContainer"},p=d(()=>c("span",null,"111",-1)),i=[p];function l(e,u){return s(),_("div",r,i)}var h=t(n,[["render",l],["__scopeId","data-v-00b761a6"]]);export{h as default};

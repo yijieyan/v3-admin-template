@@ -1,1 +1,0 @@
-import{b as r,c as s}from"./index.4ccb7564.js";import{k as a,l as n}from"./element-plus.acd4bc56.js";const u=a({name:"Redirect",setup(){const t=r(),o=s(),{pathMatch:e}=t.params;o.replace({path:typeof e=="string"?`/${e}`:`/${e.join("/")}`})},render(){return n("div")}});export{u as default};

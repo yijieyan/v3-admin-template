@@ -14,6 +14,7 @@ export default ({ command, mode }) => {
   const env = loadEnv(mode, root);
   const prodMock = true;
   return {
+    base: "/v3-admin-template/dist/",
     resolve: {
       alias: setAlias([
         ["@", "src"],

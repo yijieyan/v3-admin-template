@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index.4ccb7564.js",
+    "file": "assets/index.a00d7f4e.js",
     "src": "index.html",
     "isEntry": true,
     "imports": [
@@ -27,7 +27,7 @@
     "file": "assets/element-plus.acd4bc56.js"
   },
   "src/directive/action.js": {
-    "file": "assets/action.f5e76391.js",
+    "file": "assets/action.5388ee37.js",
     "src": "src/directive/action.js",
     "isDynamicEntry": true,
     "imports": [
@@ -36,7 +36,7 @@
     ]
   },
   "src/directive/format.js": {
-    "file": "assets/format.16f0a102.js",
+    "file": "assets/format.758a5197.js",
     "src": "src/directive/format.js",
     "isDynamicEntry": true,
     "imports": [
@@ -45,7 +45,7 @@
     ]
   },
   "src/views/Dashboard/Workplace/index.vue": {
-    "file": "assets/index.cf1616b9.js",
+    "file": "assets/index.83cda9e8.js",
     "src": "src/views/Dashboard/Workplace/index.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -54,7 +54,7 @@
     ]
   },
   "src/views/ErrorPage/401.vue": {
-    "file": "assets/401.5264f868.js",
+    "file": "assets/401.1a2bb71c.js",
     "src": "src/views/ErrorPage/401.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -69,7 +69,7 @@
     ]
   },
   "src/views/ErrorPage/404.vue": {
-    "file": "assets/404.714e886d.js",
+    "file": "assets/404.b0fc09ee.js",
     "src": "src/views/ErrorPage/404.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -85,7 +85,7 @@
     ]
   },
   "src/layout/redirect.vue": {
-    "file": "assets/redirect.bde48c85.js",
+    "file": "assets/redirect.a2298451.js",
     "src": "src/layout/redirect.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -94,7 +94,7 @@
     ]
   },
   "src/views/User/Login.vue": {
-    "file": "assets/Login.aae53ddc.js",
+    "file": "assets/Login.83e49220.js",
     "src": "src/views/User/Login.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -106,7 +106,7 @@
     ]
   },
   "src/views/Test/index.vue": {
-    "file": "assets/index.22bb7acd.js",
+    "file": "assets/index.d442b4f3.js",
     "src": "src/views/Test/index.vue",
     "isDynamicEntry": true,
     "imports": [
