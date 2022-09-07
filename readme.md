@@ -87,13 +87,3 @@ npm run stylelint
 | --------- | --------- | --------- | --------- |
 | Edge | last 2 versions | last 2 versions | last 2 versions |
 
-## 捐赠
-
-如果你觉得这个项目帮助到了你，你可以帮作者买一杯果汁表示鼓励 :tropical_drink:</br>
-![donate](https://images.hsianglee.cn/pay.png?v=0.0.1)
-
-## License
-
-[MIT](https://github.com/hsiangleev/element-plus-admin/blob/master/LICENSE)
-
-Copyright (c) 2020-present hsiangleev

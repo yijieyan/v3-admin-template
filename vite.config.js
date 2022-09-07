@@ -38,8 +38,6 @@ export default ({ command, mode }) => {
         output: {
           manualChunks: {
             "element-plus": ["element-plus"],
-            echarts: ["echarts"],
-            pinyin: ["pinyin"],
           },
         },
       },
