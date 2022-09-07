@@ -1,0 +1,120 @@
+{
+  "index.html": {
+    "file": "assets/index.4ccb7564.js",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_element-plus.acd4bc56.js"
+    ],
+    "dynamicImports": [
+      "src/views/Test/index.vue",
+      "src/views/Dashboard/Workplace/index.vue",
+      "src/views/ErrorPage/401.vue",
+      "src/views/ErrorPage/404.vue",
+      "src/layout/redirect.vue",
+      "src/views/User/Login.vue",
+      "src/directive/action.js",
+      "src/directive/format.js"
+    ],
+    "css": [
+      "assets/index.ec17730f.css"
+    ],
+    "assets": [
+      "assets/icon.9764f0e7.png"
+    ]
+  },
+  "_element-plus.acd4bc56.js": {
+    "file": "assets/element-plus.acd4bc56.js"
+  },
+  "src/directive/action.js": {
+    "file": "assets/action.f5e76391.js",
+    "src": "src/directive/action.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_element-plus.acd4bc56.js"
+    ]
+  },
+  "src/directive/format.js": {
+    "file": "assets/format.16f0a102.js",
+    "src": "src/directive/format.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_element-plus.acd4bc56.js"
+    ]
+  },
+  "src/views/Dashboard/Workplace/index.vue": {
+    "file": "assets/index.cf1616b9.js",
+    "src": "src/views/Dashboard/Workplace/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_element-plus.acd4bc56.js"
+    ]
+  },
+  "src/views/ErrorPage/401.vue": {
+    "file": "assets/401.5264f868.js",
+    "src": "src/views/ErrorPage/401.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_element-plus.acd4bc56.js",
+      "index.html"
+    ],
+    "css": [
+      "assets/401.15f7d2dc.css"
+    ],
+    "assets": [
+      "assets/401.a61ddb94.gif"
+    ]
+  },
+  "src/views/ErrorPage/404.vue": {
+    "file": "assets/404.714e886d.js",
+    "src": "src/views/ErrorPage/404.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_element-plus.acd4bc56.js",
+      "index.html"
+    ],
+    "css": [
+      "assets/404.42be54f9.css"
+    ],
+    "assets": [
+      "assets/404.538aa4d7.png",
+      "assets/404_cloud.98e7ac66.png"
+    ]
+  },
+  "src/layout/redirect.vue": {
+    "file": "assets/redirect.bde48c85.js",
+    "src": "src/layout/redirect.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_element-plus.acd4bc56.js"
+    ]
+  },
+  "src/views/User/Login.vue": {
+    "file": "assets/Login.aae53ddc.js",
+    "src": "src/views/User/Login.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_element-plus.acd4bc56.js"
+    ],
+    "css": [
+      "assets/Login.a4e12d72.css"
+    ]
+  },
+  "src/views/Test/index.vue": {
+    "file": "assets/index.22bb7acd.js",
+    "src": "src/views/Test/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_element-plus.acd4bc56.js"
+    ],
+    "css": [
+      "assets/index.89f9e94b.css"
+    ]
+  }
+}
