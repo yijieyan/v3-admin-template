@@ -17,7 +17,8 @@
     "pinia": "^2.0.11",
     "screenfull": "^5.1.0",
     "vue": "^3.2.31",
-    "vue-router": "^4.0.12"
+    "vue-router": "^4.0.12",
+    "dayjs": "^1.11.0"
   },
   "license": "MIT",
   "repository": "https://github.com/hsiangleev/element-plus-admin",
